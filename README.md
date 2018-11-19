@@ -1,4 +1,4 @@
-# InMemoryFileSyatem
+# InMemoryFileSystem
 
 
 Root directory  - Starting point. It acts as the base of the directory structure.
